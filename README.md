@@ -1,6 +1,3 @@
-Certainly! Here's a comprehensive `README.md` file for the [ReactSpringAuth](https://github.com/SinkuDev/ReactSpringAuth) repository, detailing its purpose, setup instructions, and more.
-
----
 
 # ReactSpringAuth
 
@@ -108,11 +105,3 @@ ReactSpringAuth/
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this `README.md` further based on specific project details or additional features you implement.
